@@ -1,0 +1,19 @@
+{
+  "name": "cors",
+  "version": "1.0.0",
+  "description": "the-express-package",
+  "main": "server.js",
+  "dependencies": {
+    "body": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "parser": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm i express",
+    "start": "node server.js"
+  },
+  "author": "me.ahmedalaa@gmail.com",
+  "license": "ISC"
+}
